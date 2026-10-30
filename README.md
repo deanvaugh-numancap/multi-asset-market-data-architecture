@@ -1,6 +1,6 @@
 # multi-asset-market-data-architecture
 A practical reference for modelling symbols, sessions, market state, watchlists and risk context across multi-asset trading systems.
-# Designing a Multi-Asset Market Data Layer
+## Designing a Multi-Asset Market Data Layer
 
 A practical reference for modelling symbols, trading sessions, market state,
 watchlists and risk context across stocks, forex, crypto, commodities,
