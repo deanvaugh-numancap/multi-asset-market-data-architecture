@@ -14,7 +14,7 @@ A multi-asset trading interface looks simple from the outside: search for an ins
 
 Different asset classes use different naming conventions, trading schedules, price precision, market metadata, and event models. A stock such as `AAPL` behaves very differently from a currency pair such as `EUR/USD`, while a cryptocurrency can trade continuously and an equity index may follow exchange-specific sessions. If all of these instruments are represented using one overly simplistic schema, the interface eventually accumulates exceptions.
 
-A better approach is to normalize the common parts of the market model while preserving asset-specific metadata. This is the kind of problem that becomes relevant when building a multi-market environment such as [NumanCap](https://numancap.com/), where several market categories need to coexist without pretending that they are technically identical.
+A better approach is to normalize the common parts of the market model while preserving asset-specific metadata. This is the kind of problem that becomes relevant when building a multi-market environment such as [NumanCap](https://numancap.com/about-us/), where several market categories need to coexist without pretending that they are technically identical.
 
 ## The Core Problem: One UI, Different Market Structures
 
